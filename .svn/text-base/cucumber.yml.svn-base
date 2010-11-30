@@ -1,0 +1,1 @@
+default: --jars lib --require bin --format html --out report.html --format pretty

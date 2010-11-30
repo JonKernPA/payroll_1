@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/subversion/!svn/ver/92/AwesomeO/features
+END
+gross_pay.feature
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/subversion/!svn/ver/55/AwesomeO/features/gross_pay.feature
+END
+EmployeeBasePaySteps.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/subversion/!svn/ver/54/AwesomeO/features/EmployeeBasePaySteps.java
+END
+check_or_eft.feature
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/subversion/!svn/ver/92/AwesomeO/features/check_or_eft.feature
+END
+EmployeePaystubTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/subversion/!svn/ver/54/AwesomeO/features/EmployeePaystubTest.java
+END
+FederalIncomeTaxSteps.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/subversion/!svn/ver/45/AwesomeO/features/FederalIncomeTaxSteps.java
+END
+federal_income_taxes.feature
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/subversion/!svn/ver/45/AwesomeO/features/federal_income_taxes.feature
+END
+CheckOrEftSteps.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/subversion/!svn/ver/92/AwesomeO/features/CheckOrEftSteps.java
+END
+employee_base_pay.feature
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/subversion/!svn/ver/43/AwesomeO/features/employee_base_pay.feature
+END

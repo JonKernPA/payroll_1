@@ -1,0 +1,10 @@
+what,kind,bundleId,bundleVersion,description,time
+closed,view,org.eclipse.ui,3.4.2.M20090204-0800,org.eclipse.ui.internal.introview,1283442822413
+closed,workbench,org.eclipse.ui.workbench,3.4.2.M20090127-1700,,1283442836200
+started,bundle,org.eclipse.core.filesystem,1.2.0.v20080604-1400,org.eclipse.core.filesystem,1283442836533
+stopped,bundle,com.adobe.coldfusion.as2cfc,1.0.191910,com.adobe.coldfusion.as2cfc,1283442836729
+stopped,bundle,com.adobe.coldfusion.cfc2as,1.0.191910,com.adobe.coldfusion.cfc2as,1283442836750
+stopped,bundle,com.adobe.coldfusion.crudcfc,1.0.191910,com.adobe.coldfusion.crudcfc,1283442836769
+stopped,bundle,com.adobe.coldfusion.fbext_help,1.0.1,com.adobe.coldfusion.fbext_help,1283442836776
+stopped,bundle,com.adobe.coldfusion.logviewer,1.0.191910,com.adobe.coldfusion.logviewer,1283442836785
+stopped,bundle,com.adobe.coldfusion.rds.debugger,1.0.191910,com.adobe.coldfusion.rds.debugger,1283442836795

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/subversion/!svn/ver/41/AwesomeO/lib
+END
+cuke4duke.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/subversion/!svn/ver/41/AwesomeO/lib/cuke4duke.jar
+END
+picocontainer-2.10.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/subversion/!svn/ver/41/AwesomeO/lib/picocontainer-2.10.2.jar
+END
+hamcrest-library-1.3RC0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/subversion/!svn/ver/10/AwesomeO/lib/hamcrest-library-1.3RC0.jar
+END
+junit-4.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/subversion/!svn/ver/10/AwesomeO/lib/junit-4.7.jar
+END
